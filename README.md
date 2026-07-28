@@ -9,8 +9,6 @@
 
 <div align="center">
 
-# [Your Name]
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Available+for+Freelance+Work;React%2C+Node.js%2C+PostgreSQL">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&color=0969DA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Available+for+Freelance+Work;React%2C+Node.js%2C+PostgreSQL" alt="Typing SVG"/>
