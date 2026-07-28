@@ -1,0 +1,86 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640">
+    <stop offset="0%" stop-color="#07111f"/>
+    <stop offset="48%" stop-color="#0c1830"/>
+    <stop offset="100%" stop-color="#07111f"/>
+  </linearGradient>
+
+  <linearGradient id="nameGradient" x1="320" y1="220" x2="980" y2="430">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="42%" stop-color="#67e8f9"/>
+    <stop offset="100%" stop-color="#a78bfa"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="38"/>
+  </filter>
+
+  <filter id="textGlow">
+    <feGaussianBlur stdDeviation="8" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <style>
+    .name {
+      font: 800 94px 'Segoe UI', Arial, sans-serif;
+      letter-spacing: -4px;
+    }
+
+    .role {
+      font: 600 28px 'Segoe UI', Arial, sans-serif;
+      letter-spacing: 6px;
+      fill: #cbd5e1;
+    }
+
+    .brand {
+      font: 500 20px 'Segoe UI', Arial, sans-serif;
+      letter-spacing: 4px;
+      fill: #94a3b8;
+    }
+  </style>
+</defs>
+
+<rect width="1280" height="640" fill="url(#bg)"/>
+
+<circle cx="220" cy="150" r="160" fill="#22d3ee" opacity=".17" filter="url(#glow)">
+  <animate attributeName="cx" values="220;320;220" dur="10s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1060" cy="500" r="190" fill="#8b5cf6" opacity=".16" filter="url(#glow)">
+  <animate attributeName="cy" values="500;390;500" dur="12s" repeatCount="indefinite"/>
+</circle>
+
+<g opacity=".06">
+  <path d="M0 80H1280M0 160H1280M0 240H1280M0 320H1280M0 400H1280M0 480H1280M0 560H1280" stroke="#ffffff"/>
+  <path d="M80 0V640M160 0V640M240 0V640M320 0V640M400 0V640M480 0V640M560 0V640M640 0V640M720 0V640M800 0V640M880 0V640M960 0V640M1040 0V640M1120 0V640M1200 0V640" stroke="#ffffff"/>
+</g>
+
+<g text-anchor="middle">
+  <text x="640" y="285" class="name" fill="url(#nameGradient)" filter="url(#textGlow)">
+    Jerywin Bayawan
+  </text>
+
+  <text x="640" y="355" class="role">
+    SOFTWARE DEVELOPER
+  </text>
+
+  <text x="640" y="402" class="brand">
+    ZERIBYTECARE
+  </text>
+</g>
+
+<rect x="430" y="450" width="420" height="5" rx="999" fill="#132238"/>
+<rect x="430" y="450" width="0" height="5" rx="999" fill="url(#nameGradient)">
+  <animate attributeName="width" values="0;420;0" dur="4s" repeatCount="indefinite"/>
+</rect>
+
+<circle cx="640" cy="505" r="5" fill="#67e8f9">
+  <animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+
+</svg>
