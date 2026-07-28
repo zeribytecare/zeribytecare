@@ -1,164 +1,165 @@
 <div align="center">
 
-# Hi there 👋
+# Hi, I'm Jerywin Bayawan 👋
 
-<p>
-I'm a passionate software developer who builds secure, scalable,<br/>
-and production-ready web applications.
-</p>
+### Software Developer • Full-Stack Engineer • Zeribytecare
+
+I build secure, scalable, and production-ready web applications with modern technologies.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://quickee.online)
+[![GitHub](https://img.shields.io/badge/GitHub-@zeribytecare-111827?style=for-the-badge&logo=github)](https://github.com/zeribytecare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail)](mailto:your@email.com)
 
 </div>
 
+---
+
 <table>
 <tr>
-<td width="48%" valign="top">
 
-## Hi there 👋
-
-I'm a passionate developer who loves building impactful web applications and exploring new technologies.
-
-</td>
-
-<td width="52%" valign="top">
-
-```text
-> developer@github
-
-🌱 Currently learning : Next.js, TypeScript
-💻 Working on        : Secure Business Systems
-🎯 Goals             : Build Scalable Applications
-⚡ Fun fact           : I debug with console.log
-</td> </tr> </table>
-🛠 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,git,github" alt="Technology Stack" /> </div> <br/> <table> <tr> <td width="48%" valign="top">
-🚀 Featured Projects
-<table> <tr> <td width="64"> <img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="Project icon"/> </td> <td>
-ZPay
-
-Flexible payment collection and billing management platform.
-
-React TypeScript Node.js
-
-</td> <td align="right">
-
-⭐ Private
-⑂ Active
-
-</td> </tr> </table> <table> <tr> <td width="64"> <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="42" alt="Project icon"/> </td> <td>
-Human Resource System
-
-Employee, attendance, payroll, leave, and approval management.
-
-React Express PostgreSQL
-
-</td> <td align="right">
-
-⭐ Private
-⑂ Active
-
-</td> </tr> </table> <table> <tr> <td width="64"> <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="42" alt="Project icon"/> </td> <td>
-Mining and Hauling ERP
-
-Equipment, hauling, fuel, payroll, maintenance, and billing system.
-
-React Node.js PostgreSQL
-
-</td> <td align="right">
-
-⭐ Private
-⑂ Active
-
-</td> </tr> </table>
-
-View more projects →
-
-</td> <td width="52%" valign="top">
-📊 GitHub Stats
-<table> <tr> <td width="65%" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zeribytecare&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="100%" alt="GitHub statistics" />
-
-</td> <td width="35%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeribytecare&layout=donut&hide_border=true&theme=transparent&langs_count=5" width="190" alt="Top languages" />
-
-</td> </tr> </table> <hr/>
-🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeribytecare&theme=github-compact&hide_border=true&area=true&custom_title=" width="100%" alt="GitHub contribution graph" />
-
-<br/> <table width="100%"> <tr> <td>
-
-Learn. Build. Secure. Repeat.
-
-</td> <td align="right">
-
-Made by Jerywin Bayawan
-
-</td> </tr> </table> </td> </tr> </table> ```
-Closer version with your actual profile content
-<table>
-<tr>
-<td width="48%" valign="top">
+<td width="55%" valign="top">
 
 # Hi there 👋
 
-I'm **Jerywin Bayawan**, a software developer focused on building secure, scalable, and production-ready applications.
+I'm a passionate software developer focused on building modern, secure, and scalable applications.
 
-I develop payment systems, enterprise platforms, offline-first applications, HR systems, ERP solutions, and business management software.
+I enjoy designing complete systems—from backend APIs and databases to responsive frontend interfaces and mobile applications.
+
+### What I do
+
+- 💻 Full-Stack Web Development
+- 📱 Mobile Application Development
+- ⚡ REST API Development
+- ☁️ Cloud & VPS Deployment
+- 🔒 Secure Authentication Systems
+- 🚀 Performance Optimization
 
 </td>
 
-<td width="52%" valign="top">
+<td width="45%" valign="top">
 
-```text
-> zeribytecare@github
+```yaml
+developer@github
 
-🌱 Currently learning : System Architecture
-💻 Working on         : ZPay and Business Platforms
-🎯 Goals              : Build Secure SaaS Products
-⚡ Priorities         : Security, Performance, Scalability
-</td> </tr> </table>
-🛠 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite,nodejs,express,php,laravel,postgresql,mysql,redis,sqlite,docker,linux,git,github" alt="Technology Stack" /> </div> <br/> <table> <tr> <td width="48%" valign="top">
-🚀 Featured Projects
-<table> <tr> <td width="60"> <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="ZPay"/> </td> <td>
-ZPay
+Currently Learning : Next.js, TypeScript
+Working On        : Personal Projects
+Specialization    : Full-Stack Development
+Backend           : Node.js & PostgreSQL
+Frontend          : React & TypeScript
+Architecture      : REST API • MVC • Clean Code
+Fun Fact          : I debug with console.log 😄
+```
 
-Payment collection and billing management platform supporting recurring, installment, partial, and one-time payments.
+</td>
 
-React TypeScript Node.js PostgreSQL
+</tr>
+</table>
 
-</td> </tr> </table> <table> <tr> <td width="60"> <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="HRIS"/> </td> <td>
-HR Management System
+---
 
-Employee records, payroll, attendance, leave, recruitment, approvals, and asset management.
+# 🛠 Tech Stack
 
-React Express PostgreSQL Redis
+<div align="center">
 
-</td> </tr> </table> <table> <tr> <td width="60"> <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" alt="ERP"/> </td> <td>
-Mining and Hauling ERP
+### Frontend
 
-Enterprise platform for equipment, hauling operations, fuel, maintenance, payroll, expenses, and billing.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 
-React Node.js Docker PostgreSQL
+### Backend
 
-</td> </tr> </table>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 
-View more projects →
+### Database
 
-</td> <td width="52%" valign="top">
-📊 GitHub Stats
-<table> <tr> <td width="65%" valign="middle">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeribytecare&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub statistics" />
+### DevOps & Cloud
 
-</td> <td width="35%" align="center" valign="middle">
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,github,git,cloudflare" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeribytecare&layout=donut&hide_border=true&theme=transparent&langs_count=5" width="190" alt="Most used languages" />
+### Tools
 
-</td> </tr> </table> <hr/>
-🔥 Contribution Graph
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,androidstudio" />
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=zeribytecare&theme=github-compact&hide_border=true&area
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **💳 ZPay** | Multi-tenant payment collection and billing management platform supporting recurring, installment, partial, and one-time billing. | React • Node.js • PostgreSQL |
+| **👥 HR Management System** | Complete HRIS with payroll, attendance, leave management, employee portal, and reports. | React • Express • PostgreSQL |
+| **🚛 Hauling ERP** | Fleet operations, payroll, billing, maintenance, trip tickets, and equipment management system. | React • Node.js |
+| **🍽 ZPOS** | Restaurant POS with ordering, kitchen display, inventory, and analytics dashboard. | React • PostgreSQL |
+
+➡️ **View more projects:** https://github.com/zeribytecare?tab=repositories
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=zeribytecare&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=zeribytecare&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeribytecare&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=zeribytecare&theme=tokyonight&no-frame=true&column=7)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=zeribytecare&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+- 🚀 Building production-ready SaaS applications
+- 🔒 Secure authentication and authorization
+- 📱 Cross-platform mobile applications
+- ⚡ Performance optimization
+- ☁️ Cloud-native deployments
+- 🏗 Scalable software architecture
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome)](https://quickee.online)
+[![GitHub](https://img.shields.io/badge/GitHub-zeribytecare-111827?style=for-the-badge&logo=github)](https://github.com/zeribytecare)
+[![Email](https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Learn. Build. Share. Repeat.
+
+⭐ If you like my work, consider following my GitHub profile.
+
+</div>
