@@ -35,7 +35,7 @@ I build secure, scalable, and production-ready web applications with modern tech
 
 <td width="50%" valign="top">
 
-### <img src="./assets/hris.png" width="32" align="center" alt="HRIS Logo" /> 
+### <img src="hris.png" width="32" align="center" alt="HRIS Logo" /> 
 
 **HR Management** System A complete HR information system with employee management, attendance, payroll, leave requests, approvals, and reporting.
 
@@ -51,7 +51,7 @@ I build secure, scalable, and production-ready web applications with modern tech
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/hauling.png" width="32" align="center" alt="Hauling ERP Logo" /> 
+### <img src="hauling.png" width="32" align="center" alt="Hauling ERP Logo" /> 
 
  **Hauling ERP** A fleet and hauling management platform for trip tickets, equipment operations, billing, payroll, maintenance, and fuel monitoring.
 
@@ -65,7 +65,7 @@ I build secure, scalable, and production-ready web applications with modern tech
 
 <td width="50%" valign="top">
 
-### <img src="./assets/zpos.png" width="32" align="center" alt="ZPOS Logo" /> 
+### <img src="zpos.png" width="32" align="center" alt="ZPOS Logo" /> 
 
 **ZPOS** A restaurant point-of-sale system with dine-in, takeout, delivery, kitchen display, inventory, payments, and sales analytics.
 
@@ -81,7 +81,7 @@ I build secure, scalable, and production-ready web applications with modern tech
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/zordering.png" width="32" align="center" alt="ZOrdering Logo" /> 
+### <img src="zordering.png" width="32" align="center" alt="ZOrdering Logo" /> 
 
 **ZOrdering** A multi-branch ordering platform with online menus, order management, inventory tracking, reporting, and real-time status updates.
 
