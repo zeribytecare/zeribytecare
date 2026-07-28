@@ -76,25 +76,7 @@ I design and build secure, scalable, and production-ready software.
 
 </div>
 
----
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeribytecare&show_icons=true&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1&icon_color=8b5cf6" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeribytecare&layout=compact&theme=transparent&hide_border=true&title_color=22d3ee&text_color=cbd5e1" alt="Most used languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeribytecare&theme=transparent&hide_border=true&ring=22d3ee&fire=8b5cf6&currStreakLabel=22d3ee" alt="GitHub contribution streak" />
-
-</div>
-
----
 
 ## Contribution Activity
 
