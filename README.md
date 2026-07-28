@@ -81,7 +81,7 @@ I build secure, scalable, and production-ready web applications with modern tech
 <tr>
 <td width="50%" valign="top">
 
-### <img src="zordering.png" width="32" align="center" alt="ZOrdering Logo" /> 
+### <img src="zordering.png" width="100" align="center" alt="ZOrdering Logo" /> 
 
 **ZOrdering** A multi-branch ordering platform with online menus, order management, inventory tracking, reporting, and real-time status updates.
 
