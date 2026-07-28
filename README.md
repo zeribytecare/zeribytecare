@@ -15,44 +15,95 @@ I build secure, scalable, and production-ready web applications with modern tech
 
 ---
 
+# 🚀 Featured Projects
+
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="55%" valign="top">
+### <img src="./assets/zpay.png" width="32" align="center" alt="ZPay Logo" /> ZPay
 
-# Hi there 👋
+A secure, multi-tenant payment collection and billing management system supporting recurring, installment, partial, and one-time payments.
 
-I'm a passionate software developer focused on building modern, secure, and scalable applications.
+**Tech Stack**
 
-I enjoy designing complete systems—from backend APIs and databases to responsive frontend interfaces and mobile applications.
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL`
 
-### What I do
-
-- 💻 Full-Stack Web Development
-- 📱 Mobile Application Development
-- ⚡ REST API Development
-- ☁️ Cloud & VPS Deployment
-- 🔒 Secure Authentication Systems
-- 🚀 Performance Optimization
+[View Project](https://github.com/zeribytecare)
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-```yaml
-developer@github
+### <img src="./assets/hris.png" width="32" align="center" alt="HRIS Logo" /> HR Management System
 
-Currently Learning : Next.js, TypeScript
-Working On        : Personal Projects
-Specialization    : Full-Stack Development
-Backend           : Node.js & PostgreSQL
-Frontend          : React & TypeScript
-Architecture      : REST API • MVC • Clean Code
-Fun Fact          : I debug with console.log 😄
-```
+A complete HR information system with employee management, attendance, payroll, leave requests, approvals, and reporting.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `PostgreSQL` `Redis`
+
+[View Project](https://github.com/zeribytecare)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### <img src="./assets/hauling.png" width="32" align="center" alt="Hauling ERP Logo" /> Hauling ERP
+
+A fleet and hauling management platform for trip tickets, equipment operations, billing, payroll, maintenance, and fuel monitoring.
+
+**Tech Stack**
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
+
+[View Project](https://github.com/zeribytecare)
 
 </td>
 
+<td width="50%" valign="top">
+
+### <img src="./assets/zpos.png" width="32" align="center" alt="ZPOS Logo" /> ZPOS
+
+A restaurant point-of-sale system with dine-in, takeout, delivery, kitchen display, inventory, payments, and sales analytics.
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `PostgreSQL` `Socket.io`
+
+[View Project](https://github.com/zeribytecare)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### <img src="./assets/zordering.png" width="32" align="center" alt="ZOrdering Logo" /> ZOrdering
+
+A multi-branch ordering platform with online menus, order management, inventory tracking, reporting, and real-time status updates.
+
+**Tech Stack**
+
+`React` `TypeScript` `Node.js` `Sequelize` `PostgreSQL`
+
+[View Project](https://github.com/zeribytecare)
+
+</td>
+
+<td width="50%" valign="top">
+
+### More Projects
+
+Explore my other software projects, experiments, and open-source repositories.
+
+<br>
+
+[View All Repositories](https://github.com/zeribytecare?tab=repositories)
+
+</td>
 </tr>
 </table>
 
