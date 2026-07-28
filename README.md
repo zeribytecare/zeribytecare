@@ -35,7 +35,7 @@ I build secure, scalable, and production-ready web applications with modern tech
 
 <td width="50%" valign="top">
 
-### <img src="hris.png" width="32" align="center" alt="HRIS Logo" /> 
+### <img src="hris.png" width="100" align="center" alt="HRIS Logo" /> 
 
 **HR Management** System A complete HR information system with employee management, attendance, payroll, leave requests, approvals, and reporting.
 
