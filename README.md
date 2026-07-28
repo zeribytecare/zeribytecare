@@ -135,20 +135,6 @@ Explore my other software projects, experiments, and open-source repositories.
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **💳 ZPay** | Multi-tenant payment collection and billing management platform supporting recurring, installment, partial, and one-time billing. | React • Node.js • PostgreSQL |
-| **👥 HR Management System** | Complete HRIS with payroll, attendance, leave management, employee portal, and reports. | React • Express • PostgreSQL |
-| **🚛 Hauling ERP** | Fleet operations, payroll, billing, maintenance, trip tickets, and equipment management system. | React • Node.js |
-| **🍽 ZPOS** | Restaurant POS with ordering, kitchen display, inventory, and analytics dashboard. | React • PostgreSQL |
-
-➡️ **View more projects:** https://github.com/zeribytecare?tab=repositories
-
-
 
 # 📌 Current Focus
 
