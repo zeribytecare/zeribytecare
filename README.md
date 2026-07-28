@@ -51,7 +51,7 @@ I build secure, scalable, and production-ready web applications with modern tech
 <tr>
 <td width="50%" valign="top">
 
-### <img src="hauling.png" width="32" align="center" alt="Hauling ERP Logo" /> 
+### <img src="hauling.png" width="100" align="center" alt="Hauling ERP Logo" /> 
 
  **Hauling ERP** A fleet and hauling management platform for trip tickets, equipment operations, billing, payroll, maintenance, and fuel monitoring.
 
