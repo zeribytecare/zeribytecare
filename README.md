@@ -65,7 +65,7 @@ I build secure, scalable, and production-ready web applications with modern tech
 
 <td width="50%" valign="top">
 
-### <img src="zpos.png" width="32" align="center" alt="ZPOS Logo" /> 
+### <img src="zpos.png" width="100" align="center" alt="ZPOS Logo" /> 
 
 **ZPOS** A restaurant point-of-sale system with dine-in, takeout, delivery, kitchen display, inventory, payments, and sales analytics.
 
