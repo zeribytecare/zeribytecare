@@ -21,9 +21,9 @@ I build secure, scalable, and production-ready web applications with modern tech
 <tr>
 <td width="50%" valign="top">
 
-### <img src="zpay.png" width="100" align="center" alt="ZPay Logo" /> ZPay
+### <img src="zpay.png" width="100" align="center" alt="ZPay Logo" />
 
-A secure, multi-tenant payment collection and billing management system supporting recurring, installment, partial, and one-time payments.
+ **ZPay** A secure, multi-tenant payment collection and billing management system supporting recurring, installment, partial, and one-time payments.
 
 **Tech Stack**
 
@@ -35,9 +35,9 @@ A secure, multi-tenant payment collection and billing management system supporti
 
 <td width="50%" valign="top">
 
-### <img src="./assets/hris.png" width="32" align="center" alt="HRIS Logo" /> HR Management System
+### <img src="./assets/hris.png" width="32" align="center" alt="HRIS Logo" /> 
 
-A complete HR information system with employee management, attendance, payroll, leave requests, approvals, and reporting.
+**HR Management** System A complete HR information system with employee management, attendance, payroll, leave requests, approvals, and reporting.
 
 **Tech Stack**
 
@@ -51,9 +51,9 @@ A complete HR information system with employee management, attendance, payroll, 
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/hauling.png" width="32" align="center" alt="Hauling ERP Logo" /> Hauling ERP
+### <img src="./assets/hauling.png" width="32" align="center" alt="Hauling ERP Logo" /> 
 
-A fleet and hauling management platform for trip tickets, equipment operations, billing, payroll, maintenance, and fuel monitoring.
+ **Hauling ERP** A fleet and hauling management platform for trip tickets, equipment operations, billing, payroll, maintenance, and fuel monitoring.
 
 **Tech Stack**
 
@@ -65,9 +65,9 @@ A fleet and hauling management platform for trip tickets, equipment operations, 
 
 <td width="50%" valign="top">
 
-### <img src="./assets/zpos.png" width="32" align="center" alt="ZPOS Logo" /> ZPOS
+### <img src="./assets/zpos.png" width="32" align="center" alt="ZPOS Logo" /> 
 
-A restaurant point-of-sale system with dine-in, takeout, delivery, kitchen display, inventory, payments, and sales analytics.
+**ZPOS** A restaurant point-of-sale system with dine-in, takeout, delivery, kitchen display, inventory, payments, and sales analytics.
 
 **Tech Stack**
 
@@ -81,9 +81,9 @@ A restaurant point-of-sale system with dine-in, takeout, delivery, kitchen displ
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/zordering.png" width="32" align="center" alt="ZOrdering Logo" /> ZOrdering
+### <img src="./assets/zordering.png" width="32" align="center" alt="ZOrdering Logo" /> 
 
-A multi-branch ordering platform with online menus, order management, inventory tracking, reporting, and real-time status updates.
+**ZOrdering** A multi-branch ordering platform with online menus, order management, inventory tracking, reporting, and real-time status updates.
 
 **Tech Stack**
 
