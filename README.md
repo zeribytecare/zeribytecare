@@ -17,36 +17,6 @@ I design and build secure, scalable, and production-ready software.
 
 ---
 
-## Developer Profile
-
-```ts
-const developer = {
-  name: "Jerywin Bayawan",
-  role: "Software Developer",
-  brand: "Zeribytecare",
-  location: "Davao City, Philippines",
-
-  specialties: [
-    "Full-Stack Development",
-    "Backend Engineering",
-    "API Development",
-    "Mobile Applications",
-    "Database Design",
-    "Cloud Deployment",
-  ],
-
-  principles: [
-    "Secure by default",
-    "Scalable architecture",
-    "Clean and maintainable code",
-    "Reliable production delivery",
-  ],
-
-  mindset: "Build. Secure. Scale.",
-};
-```
-
----
 
 ## Tech Stack
 
