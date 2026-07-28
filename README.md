@@ -97,41 +97,7 @@ Fun Fact          : I debug with console.log 😄
 
 ➡️ **View more projects:** https://github.com/zeribytecare?tab=repositories
 
----
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=zeribytecare&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=zeribytecare&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeribytecare&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=zeribytecare&theme=tokyonight&no-frame=true&column=7)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=zeribytecare&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
 
 # 📌 Current Focus
 
