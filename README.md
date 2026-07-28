@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./github-cover.svg" alt="GitHub Cover" width="100%" />
 </p>
-# Hi, I'm Jerywin Bayawan
+Hi, I'm Jerywin Bayawan
 
 ### Software Developer · Full-Stack Engineer · Zeribytecare
 
