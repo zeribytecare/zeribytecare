@@ -21,7 +21,7 @@ I build secure, scalable, and production-ready web applications with modern tech
 <tr>
 <td width="50%" valign="top">
 
-### <img src="zpay.png" width="32" align="center" alt="ZPay Logo" /> ZPay
+### <img src="zpay.png" width="100" align="center" alt="ZPay Logo" /> ZPay
 
 A secure, multi-tenant payment collection and billing management system supporting recurring, installment, partial, and one-time payments.
 
